@@ -1,0 +1,13 @@
+E:\NASTAVA\INTELIGENTNI\fuzzynet_1_2_0\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.XML
+E:\NASTAVA\INTELIGENTNI\fuzzynet_1_2_0\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.dll
+E:\NASTAVA\INTELIGENTNI\fuzzynet_1_2_0\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.pdb
+E:\NASTAVA\INTELIGENTNI\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.csproj.CoreCompileInputs.cache
+E:\NASTAVA\INTELIGENTNI\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.dll
+E:\NASTAVA\INTELIGENTNI\fuzzynet_1_2_0\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.pdb
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.XML
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.dll
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogicLibrary\bin\Debug\FuzzyLogicLibrary.pdb
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.csproj.AssemblyReference.cache
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.csproj.CoreCompileInputs.cache
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.dll
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogicLibrary\obj\Debug\FuzzyLogicLibrary.pdb

@@ -1,0 +1,39 @@
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.dll
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.pdb
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Properties.Resources.resources
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.GenerateResource.cache
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CopyComplete
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.xml
+E:\NASTAVA\INTELIGENTNI\FuzzyProjekat\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Form1.resources
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.pdb
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.xml
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.AssemblyReference.cache
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Form1.resources
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Properties.Resources.resources
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.GenerateResource.cache
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.Up2Date
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+C:\Users\marko\OneDrive\Desktop\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe.config
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.exe
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogic.pdb
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.pdb
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\bin\Debug\FuzzyLogicLibrary.xml
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.AssemblyReference.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Form1.resources
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.Properties.Resources.resources
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.GenerateResource.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.CoreCompileInputs.cache
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.csproj.Up2Date
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.exe
+C:\Users\marko\OneDrive\Desktop\Temp\Inteligentni\ZADACI SA ISPITA\RobotSugeno\FuzzyLogic\FuzzyLogic\obj\Debug\FuzzyLogic.pdb

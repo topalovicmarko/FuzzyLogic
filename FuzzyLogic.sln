@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzyLogic", "FuzzyLogic\FuzzyLogic.csproj", "{56E4276B-3485-41A4-8A42-04E77A69E434}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuzzyLogicLibrary", "FuzzyLogicLibrary\FuzzyLogicLibrary.csproj", "{5FCE77C6-C989-49C7-B82B-6F4B7779558C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56E4276B-3485-41A4-8A42-04E77A69E434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56E4276B-3485-41A4-8A42-04E77A69E434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56E4276B-3485-41A4-8A42-04E77A69E434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56E4276B-3485-41A4-8A42-04E77A69E434}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FCE77C6-C989-49C7-B82B-6F4B7779558C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FCE77C6-C989-49C7-B82B-6F4B7779558C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FCE77C6-C989-49C7-B82B-6F4B7779558C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FCE77C6-C989-49C7-B82B-6F4B7779558C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E4A4407-3D0B-40BC-901B-C1F22C5AF0BA}
+	EndGlobalSection
+EndGlobal
